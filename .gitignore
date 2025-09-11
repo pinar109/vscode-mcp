@@ -6,3 +6,4 @@ node_modules/
 .venv/
 coverage/
 *.tmp
+.pytest_cache/
