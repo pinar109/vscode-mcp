@@ -24,3 +24,4 @@ Notes and usage details for vscode-mcp.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
