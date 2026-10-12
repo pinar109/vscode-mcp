@@ -1,6 +1,6 @@
 {
   "name": "vscode-mcp",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "MCP server for Claude Code/VSCode/Cursor/Windsurf to use editor self functionality. \u26a1 Get real-time LSP diagnostics, type information, and code navigation for AI coding agents without waiting for slow tsc/eslint checks.",
   "main": "src/index.ts",
   "scripts": {
